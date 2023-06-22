@@ -1,4 +1,4 @@
-﻿ID(rank),name,wealth(mrdFt),NERindex,Tooltip_text
+﻿ID,name,wealth,NERindex,Tooltip_text
 1,Mészáros Lőrinc,660,10,"Mészáros Lőrinc Orbán Viktor régi barátja, pár év alatt vált az ország leggazdagabb emberévé, első sorban az állami közbeszerzéseken taroló cégeinek. Ma már komoly az építőiparon túl a mezőgazdaságban a turizmusban vagy pénzügyi területeken is komoly pozíciói vannak."
 2,Csányi Sándor,610,8,"Csányi Sándor talán az egyetlen, a NER-től még valamennyire független hatalmi tényező. Ugyanakkor (például az agrártámogatások, vagy az OTP állami üzletei révén) maga is haszonélvezője a rendszernek. MLSZ-elnökként, a megángépe rendelkezésre bocsátásval vagy egyéb üzleteivel (például az alcsútdobozi golfpálya eladása) segíti is a rendszert."
 3,Felcsuti Zsolt,460,3,"Felcsuti Zsoltról nem találtunk olyan nyilvános információt, ami közvetlenül kötné a kormányhoz, vagyonát a NER-től függetlenül szerezte. A Telex portréja megemlíti, hogy 2013-ban Varga Mihály pénzügyminiszter tanácsadója volt, 2017-ben egy állami pályázatot úgy írtak ki, hogy leginkább az ő konvektorára érte meg a támogatást felvenni."
